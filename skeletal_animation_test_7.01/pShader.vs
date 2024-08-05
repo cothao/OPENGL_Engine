@@ -1,18 +1,3 @@
-#version 330 core
-layout (location = 0) in vec3 aPos;
-layout (location = 1) in vec3 aNormal;
-
-uniform mat4 model;
-uniform mat4 view;
-uniform mat4 projection;
-
-out vec3 FragPos;
-out vec3 Normal;
-
-void main()
-{
-	FragPos = vec3(model * vec4(aPos, 1.0));
-	Normal = mat3(transpose(inverse(model))) * aNormal;
-	gl_Position = projection * view * vec4(FragPos, 1.0);
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:90b6e10158b9289fa7639681cd5c72c8514798d7f40d50e143b1d577e06c8a9c
+size 361

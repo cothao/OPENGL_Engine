@@ -1,24 +1,3 @@
-#ifndef GUI_H
-#define GUI_H
-
-#include "imgui.h"
-#include "imgui_impl_glfw.h"
-#include "imgui_impl_opengl3.h"
-#include "engine.h"
-
-class Gui
-{
-public:
-
-	float Position[3]	=	{1.,1.,1.};
-	float Color[3]		=	{1.,1.,1.};
-
-	Gui();
-
-	virtual void initGui(Engine engine);
-	virtual void displayGui(Engine& engine, bool editMode);
-	virtual void newGuiFrame();
-
-};
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1f01d9d01194ae52faf86cc2f1ebf12a439627ae3f658a95fef220efae06cc
+size 361

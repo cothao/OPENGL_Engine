@@ -1,23 +1,3 @@
-#
-# FreeType 2 Windows FNT/FON module definition
-#
-
-
-# Copyright (C) 1996-2023 by
-# David Turner, Robert Wilhelm, and Werner Lemberg.
-#
-# This file is part of the FreeType project, and may only be used, modified,
-# and distributed under the terms of the FreeType project license,
-# LICENSE.TXT.  By continuing to use, modify, or distribute this file you
-# indicate that you have read the license and understand and accept it
-# fully.
-
-
-FTMODULE_H_COMMANDS += WINDOWS_DRIVER
-
-define WINDOWS_DRIVER
-$(OPEN_DRIVER) FT_Driver_ClassRec, winfnt_driver_class $(CLOSE_DRIVER)
-$(ECHO_DRIVER)winfnt    $(ECHO_DRIVER_DESC)Windows bitmap fonts with extension *.fnt or *.fon$(ECHO_DRIVER_DONE)
-endef
-
-# EOF
+version https://git-lfs.github.com/spec/v1
+oid sha256:d98603eac3c73f0213ac6ceac64e2dbf98e5f4b544b398e5eb9a8f043c896014
+size 694

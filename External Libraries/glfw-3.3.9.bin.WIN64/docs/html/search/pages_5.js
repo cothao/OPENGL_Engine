@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['monitor_20guide_0',['Monitor guide',['../monitor_guide.html',1,'']]],
-  ['moving_20from_20glfw_202_20to_203_1',['Moving from GLFW 2 to 3',['../moving_guide.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f57aa9932b37fc40f97405a001b1e559936131b471564aaa40a01d2f0f9c3b8
+size 195

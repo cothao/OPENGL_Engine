@@ -1,12 +1,3 @@
-#version 330 core
-out vec4 FragColor;
-
-in vec2 TexCoords;
-
-uniform sampler2D texture_diffuse1;
-uniform vec3 lightColor;
-
-void main()
-{    
-    FragColor = texture(texture_diffuse1, TexCoords);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e8b9fe2c6d9a8dde490bef1f01577a20d88d2b3935a06e46a0b834544b3bab6
+size 194

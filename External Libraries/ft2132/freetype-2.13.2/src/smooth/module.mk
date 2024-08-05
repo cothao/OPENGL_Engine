@@ -1,23 +1,3 @@
-#
-# FreeType 2 smooth renderer module definition
-#
-
-
-# Copyright (C) 1996-2023 by
-# David Turner, Robert Wilhelm, and Werner Lemberg.
-#
-# This file is part of the FreeType project, and may only be used, modified,
-# and distributed under the terms of the FreeType project license,
-# LICENSE.TXT.  By continuing to use, modify, or distribute this file you
-# indicate that you have read the license and understand and accept it
-# fully.
-
-
-FTMODULE_H_COMMANDS += SMOOTH_RENDERER
-
-define SMOOTH_RENDERER
-$(OPEN_DRIVER) FT_Renderer_Class, ft_smooth_renderer_class $(CLOSE_DRIVER)
-$(ECHO_DRIVER)smooth    $(ECHO_DRIVER_DESC)anti-aliased bitmap renderer$(ECHO_DRIVER_DONE)
-endef
-
-# EOF
+version https://git-lfs.github.com/spec/v1
+oid sha256:2038bcba1f0e32bf5be6e6479e4d324566fe3828687f65868257416f7aba057d
+size 678

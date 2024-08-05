@@ -1,13 +1,3 @@
-
-Please distribute this file with the SDL runtime environment:
-
-The Simple DirectMedia Layer (SDL for short) is a cross-platform library
-designed to make it easy to write multi-media software, such as games
-and emulators.
-
-The Simple DirectMedia Layer library source code is available from:
-https://www.libsdl.org/
-
-This library is distributed under the terms of the zlib license:
-http://www.zlib.net/zlib_license.html
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f114357b2397256ab87faabad8b3b55ede711a52463c873140e44218c4fd012
+size 420

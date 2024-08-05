@@ -1,25 +1,3 @@
-#include "game_object.h"
-
-GameObject::GameObject()
-{
-
-}
-
-void GameObject::initData()
-{
-
-};
-
-void GameObject::render(
-	glm::mat4 projection,
-	glm::mat4 view,
-	glm::vec3 scale,
-	glm::vec3 translate,
-	float rotate,
-	glm::vec3 rotateDir,
-	glm::vec3 color,
-	glm::vec3 lightPos,
-	glm::vec3 cameraPos)
-{
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:498987621bc30177be5f81bfddbd8c9f68f27cf422fdd9702e554b0873bd41d1
+size 299

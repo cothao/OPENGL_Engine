@@ -1,28 +1,3 @@
-/****************************************************************************
- *
- * cff.c
- *
- *   FreeType OpenType driver component (body only).
- *
- * Copyright (C) 1996-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "cffcmap.c"
-#include "cffdrivr.c"
-#include "cffgload.c"
-#include "cffparse.c"
-#include "cffload.c"
-#include "cffobjs.c"
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:7541e01c2cb273ea475696adda3541c2ea1edb0eddd1549c17c5c2ee175cb4d7
+size 725

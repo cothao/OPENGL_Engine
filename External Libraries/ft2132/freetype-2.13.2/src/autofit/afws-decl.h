@@ -1,33 +1,3 @@
-/****************************************************************************
- *
- * afws-decl.h
- *
- *   Auto-fitter writing system declarations (specification only).
- *
- * Copyright (C) 2013-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#ifndef AFWS_DECL_H_
-#define AFWS_DECL_H_
-
-  /* Since preprocessor directives can't create other preprocessor */
-  /* directives, we have to include the header files manually.     */
-
-#include "afdummy.h"
-#include "aflatin.h"
-#include "afcjk.h"
-#include "afindic.h"
-
-#endif /* AFWS_DECL_H_ */
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2023169876a9a8b8f435fb2a8c7f098370876af5b9f0e9aeded4154c5eed3b
+size 872

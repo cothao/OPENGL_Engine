@@ -1,28 +1,3 @@
-/****************************************************************************
- *
- * type1cid.c
- *
- *   FreeType OpenType driver component (body only).
- *
- * Copyright (C) 1996-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "cidgload.c"
-#include "cidload.c"
-#include "cidobjs.c"
-#include "cidparse.c"
-#include "cidriver.c"
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc87452f53c5f4045b785e9bd06d9f437194c11eb239a8a5f2704036bd89c961
+size 710

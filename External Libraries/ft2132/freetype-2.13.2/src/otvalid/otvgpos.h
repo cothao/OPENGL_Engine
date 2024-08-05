@@ -1,36 +1,3 @@
-/****************************************************************************
- *
- * otvgpos.h
- *
- *   OpenType GPOS table validator (specification).
- *
- * Copyright (C) 2004-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#ifndef OTVGPOS_H_
-#define OTVGPOS_H_
-
-
-FT_BEGIN_HEADER
-
-
-  FT_LOCAL( void )
-  otv_GPOS_subtable_validate( FT_Bytes       table,
-                              OTV_Validator  valid );
-
-
-FT_END_HEADER
-
-#endif /* OTVGPOS_H_ */
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac242c61a1b8b9bc39982047858a8a8b428f1ecdaf7be1d01af9cf10cb45c1ff
+size 786

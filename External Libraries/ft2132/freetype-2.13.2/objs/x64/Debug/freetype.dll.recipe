@@ -1,11 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <ProjectOutputs>
-    <ProjectOutput>
-      <FullPath>C:\Users\colli\OneDrive\Documents\libraries\ft2132\freetype-2.13.2\objs\x64\Debug\freetype.dll</FullPath>
-    </ProjectOutput>
-  </ProjectOutputs>
-  <ContentFiles />
-  <SatelliteDlls />
-  <NonRecipeFileRefs />
-</Project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd93590696b336db7dead4e4f8fb9133163f94f3891f1f5e1b69146282417afe
+size 327

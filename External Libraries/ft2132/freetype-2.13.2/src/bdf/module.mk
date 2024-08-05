@@ -1,34 +1,3 @@
-#
-# FreeType 2 BDF module definition
-#
-
-# Copyright 2001, 2002, 2006 by
-# Francesco Zappa Nardelli
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-#
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-# THE SOFTWARE.
-
-
-FTMODULE_H_COMMANDS += BDF_DRIVER
-
-define BDF_DRIVER
-$(OPEN_DRIVER) FT_Driver_ClassRec, bdf_driver_class $(CLOSE_DRIVER)
-$(ECHO_DRIVER)bdf       $(ECHO_DRIVER_DESC)bdf bitmap fonts$(ECHO_DRIVER_DONE)
-endef
-
-# EOF
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c3f523d097a8afeb46d9c5653a92ff0ed996fc192ee333e2b96701a7ed53d36
+size 1372

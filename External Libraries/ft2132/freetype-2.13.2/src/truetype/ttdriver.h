@@ -1,35 +1,3 @@
-/****************************************************************************
- *
- * ttdriver.h
- *
- *   High-level TrueType driver interface (specification).
- *
- * Copyright (C) 1996-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#ifndef TTDRIVER_H_
-#define TTDRIVER_H_
-
-
-#include <freetype/internal/ftdrv.h>
-
-
-FT_BEGIN_HEADER
-
-  FT_DECLARE_DRIVER( tt_driver_class )
-
-FT_END_HEADER
-
-#endif /* TTDRIVER_H_ */
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:2831ee9641cdcd5d1c2b5593589e745990941a32bfcc42f14be2dc0fd1f3c3a2
+size 748

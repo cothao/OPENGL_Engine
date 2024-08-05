@@ -1,24 +1,3 @@
-/****************************************************************************
- *
- * psnames.c
- *
- *   FreeType psnames module component (body only).
- *
- * Copyright (C) 1996-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "psmodule.c"
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa70e47728a2c1443378d2d560c4769de02f9fdcc2a8017ed7ab8ec849acd929
+size 622

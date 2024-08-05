@@ -1,22 +1,3 @@
-#ifndef LIGHT_H
-#define LIGHT_H
-#include <glm/glm.hpp>
-#include "game_object.h"
-#include "shader.h"
-
-class Light: public GameObject
-{
-public:
-
-	Shader shader;
-	unsigned int VAO;
-	glm::vec3 pos;
-	std::string type = "light";
-
-	Light(const Shader& shader, glm::vec3 lightPos);
-	virtual void initData();
-	virtual void render(glm::mat4 projection, glm::mat4 view, glm::vec3 scale, glm::vec3 translate, float rotate, glm::vec3 rotateDir, glm::vec3 color);
-};
-
-
-#endif // !CUBE_H
+version https://git-lfs.github.com/spec/v1
+oid sha256:75b19498417b211593c28b169c73d69a692f08c4268d8221bd6be57718ccf3a9
+size 473

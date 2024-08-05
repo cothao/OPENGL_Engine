@@ -1,17 +1,3 @@
-#ifndef IDLESTATE_H
-#define IDLESTATE_H
-#include "state.h"
-#include "WalkState.h"
-
-
-class IdleState : public State
-{
-public:
-	IdleState();
-	std::string st = "Idle";
-
-	virtual State* Input(Event event);
-	virtual void Update(float Delta, Player* player);
-};
-
-#endif // !IDLESTATE_H
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdba9f5067ae65ac18d552ecb6c7e291ebb465e61055c3251c897559dd9e8a4b
+size 280

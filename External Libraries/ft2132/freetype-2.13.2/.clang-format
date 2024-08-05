@@ -1,16 +1,3 @@
-BasedOnStyle: Chromium
-AlignAfterOpenBracket: Align
-AlignConsecutiveAssignments: true
-AlignConsecutiveDeclarations: true
-AlignConsecutiveMacros: true
-AlignEscapedNewlines: true
-# AlignOperands: Align
-AlignTrailingComments: true
-AlwaysBreakAfterReturnType: AllDefinitions
-BreakBeforeBraces: Allman
-ColumnLimit: 80
-DerivePointerAlignment: false
-IndentCaseLabels: false
-PointerAlignment: Left
-SpaceBeforeParens: ControlStatements
-SpacesInParentheses: true
+version https://git-lfs.github.com/spec/v1
+oid sha256:a68263236429935d69822c4a1a9503700f854fbc7096e5b644fff7623b6d2d65
+size 453

@@ -1,26 +1,3 @@
-#
-# FreeType 2 Borland C++ on Win32 + debugging
-#
-
-
-# Copyright (C) 1996-2023 by
-# David Turner, Robert Wilhelm, and Werner Lemberg.
-#
-# This file is part of the FreeType project, and may only be used, modified,
-# and distributed under the terms of the FreeType project license,
-# LICENSE.TXT.  By continuing to use, modify, or distribute this file you
-# indicate that you have read the license and understand and accept it
-# fully.
-
-
-DEVEL_DIR := $(TOP_DIR)/devel
-
-include $(TOP_DIR)/builds/windows/win32-def.mk
-
-include $(TOP_DIR)/builds/compiler/bcc-dev.mk
-
-# include linking instructions
-include $(TOP_DIR)/builds/link_dos.mk
-
-
-# EOF
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9b712c221aa8ac315b80df5788f5a1f0b8eef7428f525431e0843827712ff6
+size 638

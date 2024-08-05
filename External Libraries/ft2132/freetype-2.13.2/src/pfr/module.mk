@@ -1,23 +1,3 @@
-#
-# FreeType 2 PFR module definition
-#
-
-
-# Copyright (C) 2002-2023 by
-# David Turner, Robert Wilhelm, and Werner Lemberg.
-#
-# This file is part of the FreeType project, and may only be used, modified,
-# and distributed under the terms of the FreeType project license,
-# LICENSE.TXT.  By continuing to use, modify, or distribute this file you
-# indicate that you have read the license and understand and accept it
-# fully.
-
-
-FTMODULE_H_COMMANDS += PFR_DRIVER
-
-define PFR_DRIVER
-$(OPEN_DRIVER) FT_Driver_ClassRec, pfr_driver_class $(CLOSE_DRIVER)
-$(ECHO_DRIVER)pfr       $(ECHO_DRIVER_DESC)PFR/TrueDoc font files with extension *.pfr$(ECHO_DRIVER_DONE)
-endef
-
-# EOF
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a0d9cb95b7a4aed37da953d58fe7abefe4f16304ebc3ab6980f14633664cb23
+size 664

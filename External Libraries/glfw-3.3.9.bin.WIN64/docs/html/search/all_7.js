@@ -1,11 +1,3 @@
-var searchData=
-[
-  ['initialization_2c_20version_20and_20error_20reference_0',['Initialization, version and error reference',['../group__init.html',1,'']]],
-  ['input_20guide_1',['Input guide',['../input_guide.html',1,'']]],
-  ['input_20reference_2',['Input reference',['../group__input.html',1,'']]],
-  ['input_2edox_3',['input.dox',['../input_8dox.html',1,'']]],
-  ['internal_20structure_4',['Internal structure',['../internals_guide.html',1,'']]],
-  ['internal_2edox_5',['internal.dox',['../internal_8dox.html',1,'']]],
-  ['intro_2edox_6',['intro.dox',['../intro_8dox.html',1,'']]],
-  ['introduction_20to_20the_20api_7',['Introduction to the API',['../intro_guide.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:aceec5828a0e3e33d834182fad6e41c6e3d6b05da4ba04ad4fc02feb2ff9bba4
+size 685

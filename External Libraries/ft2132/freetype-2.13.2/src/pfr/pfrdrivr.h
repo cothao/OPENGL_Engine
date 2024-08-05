@@ -1,36 +1,3 @@
-/****************************************************************************
- *
- * pfrdrivr.h
- *
- *   High-level Type PFR driver interface (specification).
- *
- * Copyright (C) 2002-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#ifndef PFRDRIVR_H_
-#define PFRDRIVR_H_
-
-
-#include <freetype/internal/ftdrv.h>
-
-
-FT_BEGIN_HEADER
-
-  FT_EXPORT_VAR( const FT_Driver_ClassRec )  pfr_driver_class;
-
-FT_END_HEADER
-
-
-#endif /* PFRDRIVR_H_ */
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f644db4c94e631bfdcab892d974871b921fc074e3ca9f31f6103f9afdcd7438
+size 773

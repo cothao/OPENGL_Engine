@@ -1,10 +1,3 @@
-WinCE
-=====
-
-Windows CE is no longer supported by SDL.
-
-We have left the CE support in SDL 1.2 for those that must have it, and we
-have support for Windows Phone 8 and WinRT in SDL2, as of SDL 2.0.3.
-
---ryan.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe622040f83d896dc8edd5b54ac57deba3323f6ca4904d05b47b2879551565c3
+size 210

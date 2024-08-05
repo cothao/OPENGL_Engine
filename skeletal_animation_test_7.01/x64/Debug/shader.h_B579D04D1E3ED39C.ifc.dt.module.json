@@ -1,9 +1,3 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\colli\\onedrive\\documents\\skeletal_animation_test_7.01\\skeletal_animation_test_7.01\\shader.h",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ed89c70c2fd2b57ae5cd365c6095e5f073216162db571c65f6d1fc9918e8020
+size 269

@@ -1,22 +1,3 @@
-# Unit and regression tests for the FreeType library
-
-## Quick Start
-
-### Download test fonts
-
-Run the `tests/scripts/download-fonts.py` script, which will
-download test fonts to the `tests/data/` directory first.
-
-### Build the test programs
-
-The tests are only built with the Meson build system, and
-are disabled by default, enable the 'tests' option to compile
-them, as in:
-
-  meson setup out -Dtests=enabled
-  meson compile -C out
-
-### Run the test programs
-
-  meson test -C out
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:20322a0d78efdb05924aa8e4226663bb053b13c077e56492c5c3334a2c16949d
+size 484

@@ -1,35 +1,3 @@
-/****************************************************************************
- *
- * autofit.c
- *
- *   Auto-fitter module (body).
- *
- * Copyright (C) 2003-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "ft-hb.c"
-#include "afblue.c"
-#include "afcjk.c"
-#include "afdummy.c"
-#include "afglobal.c"
-#include "afhints.c"
-#include "afindic.c"
-#include "aflatin.c"
-#include "afloader.c"
-#include "afmodule.c"
-#include "afranges.c"
-#include "afshaper.c"
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ff8270e931ebce143e9b2bfda5249d6b09602ba16fd8859e3d1dd2ebb6b707
+size 832

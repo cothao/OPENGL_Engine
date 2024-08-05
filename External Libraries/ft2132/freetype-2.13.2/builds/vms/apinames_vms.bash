@@ -1,2 +1,3 @@
-src/tools/apinames -wV include/freetype/*.h > freetype_vms0.opt
-mv freetype_vms0.opt freetype_vms.opt
+version https://git-lfs.github.com/spec/v1
+oid sha256:258f94d08bdc2c8e899579d3239214461e2e5d42255dc4abc1d2ae3c32f613a4
+size 102

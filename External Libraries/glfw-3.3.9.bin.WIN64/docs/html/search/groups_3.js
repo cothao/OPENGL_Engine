@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['initialization_2c_20version_20and_20error_20reference_0',['Initialization, version and error reference',['../group__init.html',1,'']]],
-  ['input_20reference_1',['Input reference',['../group__input.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b2530b14ea9cfaecc85174ba8a056c6d1cca53d808bbbe213ba58c21928594
+size 237

@@ -1,35 +1,3 @@
-#ifndef VECTOR_DIRECTION_H
-#define VECTOR_DIRECTION_H
-#include <glm/glm.hpp>
-
-enum Direction
-{
-    TOP,
-    RSIDE,
-    BOTTOM,
-    LSIDE,
-};
-
-Direction VectorDirection(glm::vec2 target)
-{
-    glm::vec2 compass[] = {
-        glm::vec2(0.0f, 1.0f),	// up
-        glm::vec2(1.0f, 0.0f),	// right
-        glm::vec2(0.0f, -1.0f),	// down
-        glm::vec2(-1.0f, 0.0f)	// left
-    };
-    float max = 0.0f;
-    unsigned int best_match = -1;
-    for (unsigned int i = 0; i < 4; i++)
-    {
-        float dot_product = glm::dot(glm::normalize(target), compass[i]);
-        if (dot_product > max)
-        {
-            max = dot_product;
-            best_match = i;
-        }
-    }
-    return (Direction)best_match;
-}
-
-#endif // !VECTOR_DIRECTION_H
+version https://git-lfs.github.com/spec/v1
+oid sha256:86b7f2a68d3c0a08dc8807c0a4ad4fe6f0c73aba463f98322856190657e15e2f
+size 739

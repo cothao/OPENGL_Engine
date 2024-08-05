@@ -1,6 +1,3 @@
-var searchData=
-[
-  ['input_2edox_0',['input.dox',['../input_8dox.html',1,'']]],
-  ['internal_2edox_1',['internal.dox',['../internal_8dox.html',1,'']]],
-  ['intro_2edox_2',['intro.dox',['../intro_8dox.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a9811d253e07b5510e08711fb7deb744fa02595e9d0a8fcb199d8b7fa925c48
+size 218

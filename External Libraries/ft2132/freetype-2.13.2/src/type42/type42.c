@@ -1,26 +1,3 @@
-/****************************************************************************
- *
- * type42.c
- *
- *   FreeType Type 42 driver component.
- *
- * Copyright (C) 2002-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "t42drivr.c"
-#include "t42objs.c"
-#include "t42parse.c"
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:7adb6554e96dcbf805baea62594f3fdb40408c0f4b44ffb5dc769acda6812cb3
+size 652

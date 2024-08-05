@@ -1,31 +1,3 @@
-/****************************************************************************
- *
- * otvalid.c
- *
- *   FreeType validator for OpenType tables (body only).
- *
- * Copyright (C) 2004-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "otvbase.c"
-#include "otvcommn.c"
-#include "otvgdef.c"
-#include "otvgpos.c"
-#include "otvgsub.c"
-#include "otvjstf.c"
-#include "otvmath.c"
-#include "otvmod.c"
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:58006c8c3db0134cfe71d6e51ce9ef33307ba4045b1b61c905a9b1dd7879a0da
+size 773

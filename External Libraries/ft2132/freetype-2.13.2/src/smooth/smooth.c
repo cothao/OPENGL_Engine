@@ -1,25 +1,3 @@
-/****************************************************************************
- *
- * smooth.c
- *
- *   FreeType anti-aliasing rasterer module component (body only).
- *
- * Copyright (C) 1996-2023 by
- * David Turner, Robert Wilhelm, and Werner Lemberg.
- *
- * This file is part of the FreeType project, and may only be used,
- * modified, and distributed under the terms of the FreeType project
- * license, LICENSE.TXT.  By continuing to use, modify, or distribute
- * this file you indicate that you have read the license and
- * understand and accept it fully.
- *
- */
-
-
-#define FT_MAKE_OPTION_SINGLE_OBJECT
-
-#include "ftgrays.c"
-#include "ftsmooth.c"
-
-
-/* END */
+version https://git-lfs.github.com/spec/v1
+oid sha256:874713d579d3a72d8dbb725e33023593fc3add89b9176af41038be54562fa75d
+size 657

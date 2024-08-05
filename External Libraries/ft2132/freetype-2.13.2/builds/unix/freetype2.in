@@ -1,14 +1,3 @@
-prefix=%prefix%
-exec_prefix=%exec_prefix%
-libdir=%libdir%
-includedir=%includedir%
-
-Name: FreeType 2
-URL: https://freetype.org
-Description: A free, high-quality, and portable font engine.
-Version: %ft_version%
-Requires: %PKGCONFIG_REQUIRES%
-Requires.private: %PKGCONFIG_REQUIRES_PRIVATE%
-Libs: %PKGCONFIG_LIBS%
-Libs.private: %PKGCONFIG_LIBS_PRIVATE%
-Cflags: -I${includedir}/freetype2
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e0ed5cec28e2fd996a857a3d2ae9be210c102485f75efe902605b89b8c390a9
+size 383

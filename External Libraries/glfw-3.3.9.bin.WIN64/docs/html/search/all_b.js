@@ -1,6 +1,3 @@
-var searchData=
-[
-  ['native_20access_0',['Native access',['../group__native.html',1,'']]],
-  ['news_2edox_1',['news.dox',['../news_8dox.html',1,'']]],
-  ['notitle_2',['notitle',['../index.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:f272e042aa0a3ea87824e8a150475820ab33cb29cae1d78b4291a47a000651dc
+size 206
