@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\shader.h.obj",
+            "outputs": [
+                "C:\\Users\\colli\\Documents\\skeletal_animation_test_7.01\\skeletal_animation_test_7.01\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\colli\\Documents\\skeletal_animation_test_7.01\\skeletal_animation_test_7.01\\x64\\Debug\\shader.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "shader.h",
+                    "source-path": "c:\\users\\colli\\documents\\skeletal_animation_test_7.01\\skeletal_animation_test_7.01\\shader.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
